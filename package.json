@@ -1,0 +1,25 @@
+{
+  "name": "idle-sleep",
+  "version": "1.0.0",
+  "description": "Sleep with native spawn-sync",
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://github.com/marcelerz/idle-sleep",
+  "bugs": "https://github.com/marcelerz/idle-sleep/issues",
+  "author": {
+    "name": "Marcel Erz",
+    "email": "me@marcelerz.com",
+    "url": "http://www.marcelerz.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelerz/idle-sleep.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "preceptor"
+  ],
+  "dependencies": {
+    "spawn-sync": "^1.0.5"
+  }
+}
